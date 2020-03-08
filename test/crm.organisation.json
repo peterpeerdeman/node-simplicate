@@ -1,0 +1,212 @@
+{
+    "data": [
+        {
+            "allow_autocollect": "0",
+            "bank_account": "NL11RABO0111111111",
+            "coc_code": "66180074",
+            "created": "2014-07-30 11:02:13",
+            "created_at": "2014-07-30 11:02:13",
+            "custom_fields": [
+                {
+                    "custom_field_group": {
+                        "id": "customfieldgroup:3b24578fb4806037",
+                        "name": "Hostingpakket",
+                        "position": "2"
+                    },
+                    "id": "customfield:1252855683503214dcf9725ddc54ac9a",
+                    "label": "Hostingpakket",
+                    "name": "Hostingpakket",
+                    "options": [
+                        {
+                            "label": "Eigen bedrijf",
+                            "value": "customfieldoption:401d7c49590e2c47"
+                        },
+                        {
+                            "label": "TransIP",
+                            "value": "customfieldoption:89a32ac8a105f909"
+                        },
+                        {
+                            "label": "Yourhosting",
+                            "value": "customfieldoption:2d4148220f70d4df"
+                        },
+                        {
+                            "label": "One.com",
+                            "value": "customfieldoption:b357ec361ce636b5"
+                        }
+                    ],
+                    "position": 0,
+                    "render_type": "dropdown",
+                    "value": "customfieldoption:89a32ac8a105f909",
+                    "value_type": "INTEGER"
+                },
+                {
+                    "custom_field_group": {
+                        "id": "customfieldgroup:8f2952df0d847a39",
+                        "name": "Training gevolgd",
+                        "position": "3"
+                    },
+                    "id": "customfield:1249ba0d41e48419dcf9725ddc54ac9a",
+                    "label": "Training gevolgd?",
+                    "name": "Training_gevolgd",
+                    "options": [],
+                    "position": 0,
+                    "render_type": "boolean",
+                    "value_type": "INTEGER"
+                }
+            ],
+            "debtor": {
+                "attention_to": "none",
+                "autocollect": false,
+                "autosend_subscription_invoice": false,
+                "cc": [],
+                "invoicetemplate_id": "invoicetemplate:28fcdb918135a5b6",
+                "payment_term": {
+                    "days": 14,
+                    "id": "paymentterm:7afdcf3cfd349282",
+                    "method": "banktransfer",
+                    "name": "14 dagen"
+                },
+                "provision_method": "post",
+                "send_email_type": "contact"
+            },
+            "email": "info@mycorp.nl",
+            "has_different_postal_address": false,
+            "id": "organization:21ea35b0780c7f46",
+            "interests": [],
+            "linked_persons_contacts": [],
+            "linkedin_url": "",
+            "modified": "2018-08-07 13:07:21",
+            "name": "MyCorp",
+            "note": "",
+            "phone": "020-1117662 ",
+            "relation_type": {
+                "color": "#666666",
+                "id": "relationtype:56fb2ce4722a7509515efc18bba82b90",
+                "label": "Relationtype_own_company"
+            },
+            "simplicate_url": "https://mycorp.simplicate.nl/v1/crm/organization/view?id=1",
+            "timeline_email_address": "mycorp+organization-1@in.simplicate.nl",
+            "updated_at": "2018-08-07 13:07:21",
+            "url": "www.mycorp.nl",
+            "visiting_address": {
+                "country": "Country_The Netherlands",
+                "country_code": "NL",
+                "country_id": "country:9e13dd54153be019",
+                "id": "address:22b476c3679a994b",
+                "line_1": "Street 15",
+                "locality": "Amsterdam",
+                "postal_code": "1014 BM",
+                "type": "default"
+            }
+        },
+        {
+            "allow_autocollect": "0",
+            "coc_code": "59637781",
+            "created": "2017-09-04 15:40:41",
+            "created_at": "2017-09-04 15:40:41",
+            "custom_fields": [
+                {
+                    "custom_field_group": {
+                        "id": "customfieldgroup:3b24578fb4806037",
+                        "name": "Hostingpakket",
+                        "position": "2"
+                    },
+                    "id": "customfield:1252855683503214dcf9725ddc54ac9a",
+                    "label": "Hostingpakket",
+                    "name": "Hostingpakket",
+                    "options": [
+                        {
+                            "label": "Eigen bedrijf",
+                            "value": "customfieldoption:401d7c49590e2c47"
+                        },
+                        {
+                            "label": "TransIP",
+                            "value": "customfieldoption:89a32ac8a105f909"
+                        },
+                        {
+                            "label": "Yourhosting",
+                            "value": "customfieldoption:2d4148220f70d4df"
+                        },
+                        {
+                            "label": "One.com",
+                            "value": "customfieldoption:b357ec361ce636b5"
+                        }
+                    ],
+                    "position": 0,
+                    "render_type": "dropdown",
+                    "value": "customfieldoption:2d4148220f70d4df",
+                    "value_type": "INTEGER"
+                },
+                {
+                    "custom_field_group": {
+                        "id": "customfieldgroup:8f2952df0d847a39",
+                        "name": "Training gevolgd",
+                        "position": "3"
+                    },
+                    "id": "customfield:1249ba0d41e48419dcf9725ddc54ac9a",
+                    "label": "Training gevolgd?",
+                    "name": "Training_gevolgd",
+                    "options": [],
+                    "position": 0,
+                    "render_type": "boolean",
+                    "value": "1",
+                    "value_type": "INTEGER"
+                }
+            ],
+            "debtor": {
+                "attention_to": "none",
+                "autocollect": false,
+                "autosend_subscription_invoice": false,
+                "cc": [],
+                "payment_term": {
+                    "days": 14,
+                    "id": "paymentterm:7afdcf3cfd349282",
+                    "method": "banktransfer",
+                    "name": "14 dagen"
+                },
+                "provision_method": "post",
+                "send_email_type": "contact"
+            },
+            "email": "support@simplicate.nl",
+            "has_different_postal_address": false,
+            "id": "organization:f43291b735e91dc7",
+            "industry": {
+                "id": "industry:f0e4a0e5f36d3d0c65a09f6c77134b9b",
+                "name": "Zakelijke en persoonlijke dienstverlening"
+            },
+            "interests": [],
+            "linked_persons_contacts": [],
+            "linkedin_url": "",
+            "modified": "2018-08-08 08:56:58",
+            "name": "Simplicate Software B.V.",
+            "note": "",
+            "organizationsize": {
+                "id": "organizationsize:c0af7629219b58b9",
+                "name": "20-50 medewerkers"
+            },
+            "phone": "088-5200500",
+            "relation_number": "",
+            "relation_type": {
+                "color": "#e67e22",
+                "id": "relationtype:de3b7f202fec93cf",
+                "label": "Leverancier"
+            },
+            "simplicate_url": "https://mycorp.simplicate.nl/v1/crm/organization/view?id=2",
+            "timeline_email_address": "mycorp+organization-2@in.simplicate.nl",
+            "updated_at": "2018-08-08 08:56:58",
+            "url": "www.simplicate.nl",
+            "visiting_address": {
+                "country": "Country_The Netherlands",
+                "country_code": "NL",
+                "country_id": "country:9e13dd54153be019",
+                "id": "address:f44c52f613b1151340ad421b3a20b3fd",
+                "line_1": "Laan Corpus den Hoorn 108",
+                "locality": "Groningen",
+                "postal_code": "9728 JR",
+                "type": "default"
+            }
+        }
+    ],
+    "debug": null,
+    "errors": null
+}

@@ -1,0 +1,60 @@
+{
+    "data": [
+        {
+            "contract_type": {
+                "id": "contracttype:ce37c36777cb9190",
+                "name": "0-uren"
+            },
+            "created": "2018-08-27 12:05:34",
+            "created_at": "2018-08-27 12:05:34",
+            "employee": {
+                "id": "employee:2516d81451ce7c1d6d44e34a3f0f8c3d",
+                "name": "Jane Doe"
+            },
+            "employer": {
+                "id": "organization:21ea35b0780c7f46",
+                "name": "MyCorp"
+            },
+            "employment_type": {
+                "id": "employmenttype:b6e6a647ba822c0b",
+                "name": "Fulltime"
+            },
+            "end_date": "2018-09-02",
+            "id": "contract:84d5c29cedaedca6",
+            "last_updated": "2018-09-05 14:08:00",
+            "parttime_percentage": "100.000000",
+            "salary_fulltime": "1500.000000",
+            "start_date": "2018-04-02",
+            "updated_at": "2018-09-05 14:08:00"
+        },
+        {
+            "contract_type": {
+                "id": "contracttype:b1213b87bb1da298",
+                "name": "Onbepaalde tijd"
+            },
+            "created": "2018-08-27 12:13:17",
+            "created_at": "2018-08-27 12:13:17",
+            "employee": {
+                "id": "employee:ae2396e39e5067cb6d44e34a3f0f8c3d",
+                "name": "John Doe"
+            },
+            "employer": {
+                "id": "organization:21ea35b0780c7f46",
+                "name": "MyCorp"
+            },
+            "employment_type": {
+                "id": "employmenttype:b6e6a647ba822c0b",
+                "name": "Fulltime"
+            },
+            "end_date": "1970-01-01",
+            "id": "contract:2ededf93535e0fc6",
+            "last_updated": "2018-08-27 12:13:17",
+            "parttime_percentage": "100.000000",
+            "salary_fulltime": "2000.000000",
+            "start_date": "2017-06-01",
+            "updated_at": "2018-08-27 12:13:17"
+        }
+    ],
+    "debug": null,
+    "errors": null
+}
